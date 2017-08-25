@@ -18,5 +18,5 @@ Mac 电脑上的工具
 
 
 
-# 跳转另一个 README.md
+# 跳转另一个README.md
 [第二部分](https://github.com/CoderLanni/Mac-Tools/blob/master/part2.md) 
