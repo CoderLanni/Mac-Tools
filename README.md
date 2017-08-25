@@ -3,7 +3,7 @@ Mac 电脑上的工具
 
 [工具](#工具)
 
-[跳转另一个 README.md](#跳转另一个README.md)
+[跳转另一个README.md](#跳转另一个README.md)
 
 
 # 工具
