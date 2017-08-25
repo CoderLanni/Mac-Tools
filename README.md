@@ -4,7 +4,7 @@ Mac 电脑上的工具
 - [工具](#工具)
   - [1.图床神器 iPic](#图床神器)
 
-- [跳转另一个README.md](#跳转另一个README.md)
+- [跳转另一个README.md](#跳转另一个)
 
 
 # 工具
@@ -19,7 +19,7 @@ Mac 电脑上的工具
 
 
 
-# 跳转另一个README.md
+# 跳转另一个文件
 [第二部分](https://github.com/CoderLanni/Mac-Tools/blob/master/part2.md) 
 
 
@@ -30,4 +30,3 @@ Mac 电脑上的工具
 
 
 
-放到
