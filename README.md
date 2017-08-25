@@ -5,7 +5,7 @@ Mac 电脑上的工具
 - [1.图床神器iPic](##1.图床神器iPic)
 
 
-[跳转另一 README.md](#跳转另一个README.md)
+[跳转另一 README.md](#跳转另一个 README.md)
 
 
 # 工具
