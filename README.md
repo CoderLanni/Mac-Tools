@@ -1,7 +1,7 @@
 # Mac-Tools
 Mac 电脑上的工具
 
-[图床神器 iPic](#1.图床神器 iPic)
+[图床神器 iPic](#图床神器 iPic)
 
 
 ## 1.图床神器 iPic
