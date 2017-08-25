@@ -12,4 +12,4 @@ Mac 电脑上的工具
 <img src="https://ws4.sinaimg.cn/large/006tNc79gy1fiuvdo0t0hj30dg0co0t3.jpg" width=30% />
 
 
-[我的博客](http://blog.csdn.net/guodongxiaren) 
+[我的博客](https://github.com/CoderLanni/Mac-Tools/blob/master/SecondREADME) 
