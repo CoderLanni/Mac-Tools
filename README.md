@@ -8,7 +8,7 @@ Mac 电脑上的工具
 
 
 # 工具
-## - 1.图床神器 iPic
+## 1.图床神器 iPic
 
 上传本地图片得到一个链接,用来写博客....
 
@@ -21,3 +21,13 @@ Mac 电脑上的工具
 
 # 跳转另一个README.md
 [第二部分](https://github.com/CoderLanni/Mac-Tools/blob/master/part2.md) 
+
+
+
+
+
+
+
+
+
+放到
